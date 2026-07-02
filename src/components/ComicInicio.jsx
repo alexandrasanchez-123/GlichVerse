@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import teaserVideo from '../assets/teaserrrr.mp4';
+
 
 export const ComicInicio = () => {
   return (
@@ -279,20 +279,7 @@ export const ComicInicio = () => {
           <h2 className="fw-bold mb-4" style={{ color: "#016C6A", fontSize: "2.5rem" }}>
             Teaser
           </h2>
-          {<video
-            src={teaserVideo}
-            controls
-            muted
-            playsInline
-            style={{
-              width: "100%",
-              maxHeight: "500px",
-              borderRadius: "16px",
-              boxShadow: "0 4px 15px rgba(0,0,0,0.15)",
-              backgroundColor: "#000",
-              display: "block",
-            }}
-          />}
+          
         </section>
 
       </div>

@@ -6,7 +6,6 @@ import { Footer} from './Footer'
 export const Tienda = () => {
   return (
     <>
-    <NavBar/>
       <TiendaCard/>
       <Footer/>
     </>

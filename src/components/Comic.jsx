@@ -6,7 +6,6 @@ export const Comic = () => {
 
   return (
     <>
-    <NavBar />
     <ComicInicio />
 <Footer/>
     </>
