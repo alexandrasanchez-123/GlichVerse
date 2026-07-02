@@ -130,7 +130,7 @@ export const TiendaCard = () => {
               </div>
               <div>
                 <p className="mt-3 fw-semibold">
-                  Stikers Glitch Verse
+                  Stickers Glitch Verse
                 </p>
                 <p className="fw-bold mb-0">$15.000</p>
               </div>
@@ -149,7 +149,7 @@ export const TiendaCard = () => {
               </div>
               <div>
                 <p className="mt-3 fw-semibold">
-                  Stikers Noah
+                  Stickers Noah
                 </p>
                 <p className="fw-bold mb-0">$30.000</p>
               </div>

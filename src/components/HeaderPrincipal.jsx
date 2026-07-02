@@ -44,7 +44,7 @@ export const HeaderPrincipal = () => {
         }
 
         .nav-link-custom:hover {
-          color: #016C6A;
+          color: #A8D5C2;
           transform: translateY(-3px);
         }
 
@@ -64,7 +64,7 @@ export const HeaderPrincipal = () => {
         }
 
         .btn-navbar {
-          background: #A5D9C3;
+          background: #A8D5C2;
           border: none;
           padding: 12px 25px;
           border-radius: 30px;
